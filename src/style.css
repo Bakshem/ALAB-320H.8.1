@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 ;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.app {
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: white;
+    padding: 20px;
+}
+
+.starship-card {
+    width: 200px;
+    text-align: center;
+    background-color: cadetblue;
+    border: 1px solid green ;
+    border-radius: 5px;
+    padding: 10px;
+}
